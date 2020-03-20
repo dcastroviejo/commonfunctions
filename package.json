@@ -1,0 +1,13 @@
+{
+  "name": "commonfunctions",
+  "version": "1.0.1",
+  "description": "Common Functions for easy coding",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Damiano",
+  "license": "ISC"
+}
